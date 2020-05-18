@@ -1,1 +1,8 @@
-{}
+{
+	"editor.formatOnSave": true,
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": false,
+		"source.fixAll": true
+	},
+	"eslint.validate": ["javascript", "typescript"]
+}
