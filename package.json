@@ -20,11 +20,11 @@
     "commands": [
       {
         "command": "pseudoTerminalExample.create",
-        "title": "Extension Terminal Sample: Create"
+        "title": "Pseudoterminal: Create"
       },
       {
         "command": "pseudoTerminalExample.clear",
-        "title": "Extension Terminal Sample: Clear"
+        "title": "Pseudoterminal: Clear"
       }
     ]
   },
